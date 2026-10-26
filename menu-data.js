@@ -94,8 +94,8 @@ const MENU = [
     ["تندر 10 قطع كومبو", "10-Piece Tender Combo", 600, ...D.t10C],
   ]},
   { id: "sandwiches", ar: "ساندوتشات الدجاج", en: "Chicken Sandwiches", items: [
-    ["كلاسيك", "Classic", 170, ...D.classic],
-    ["أرابيان راب", "Arabian Wrap", 190, ...D.wrap],
+    ["كلاسيك", "Classic", 190, ...D.classic],
+    ["أرابيان راب", "Arabian Wrap", 170, ...D.wrap],
     ["ديپ تيست", "Deep Taste", 205, ...D.deep],
     ["سبيشيال", "Special", 220, ...D.special],
     ["فاير كينج", "Fire King", 340, ...D.king],
